@@ -1,2 +1,6 @@
 # hello-world
-first 
+
+hi humans
+
+Chefreggie here  
+i am batman and superman
